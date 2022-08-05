@@ -8,13 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[National Park Project Wireframes](https://github.com/EnrZ/liftoff-assignments/blob/master/P3-Project_Planning/wireframes.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/W9FS2D0a/liftoff-app)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
-[National Park Project Link](https://github.com/MurphDurty20/National_Parks_Lift_Off)
+[National Park Project Repo](https://github.com/MurphDurty20/National_Parks_Lift_Off)
